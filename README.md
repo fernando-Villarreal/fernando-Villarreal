@@ -1,4 +1,4 @@
-<h3 align="center">Estudiante de ultimo año de secundaria</h3>
+<h3 align="center">Estudiante de Ing. en Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-villarreal&label=Profile%20views&color=0e75b6&style=flat" alt="fernando-villarreal" /> </p>
 
