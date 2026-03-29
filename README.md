@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-villarreal&label=Profile%20views&color=0e75b6&style=flat" alt="fernando-villarreal" /> </p>
 
-- 🌱 Acutalmente aprendiendo **Fundamentos de Ingeniería de Software**
+- 🌱 Acutalmente aprendiendo **NASHE**
 
 - 📫 Contacto **Fernandovillarreal8900@gmail.com / Fernandovillarreal233@gmail.com**
 
