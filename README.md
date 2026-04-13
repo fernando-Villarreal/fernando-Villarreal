@@ -4,7 +4,6 @@
 
 - 🌱 Acutalmente aprendiendo **NASHE**
 
-- 📫 Contacto **Fernandovillarreal8900@gmail.com / Fernandovillarreal233@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
